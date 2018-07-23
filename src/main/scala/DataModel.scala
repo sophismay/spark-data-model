@@ -6,6 +6,6 @@ import org.apache.spark.{ SparkConf, SparkContext }
 
 object DataModel {
   def main(args: Array[String]) = {
-
+    print("Hello there")
   }
 }
